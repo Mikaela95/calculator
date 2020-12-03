@@ -1,0 +1,23 @@
+button {
+  margin: 0.25rem;
+}
+
+.container {
+  max-width: 800px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  padding: 1.75rem;
+  background-color: #283747;
+  margin: 0 auto;
+  color: white;
+}
+
+.jumbotron.d-flex.align-items-center.min-vh-100{
+  background-image: url(background-picture.jpg);
+}
+
+#colour:hover{
+  background-color: chartreuse;
+}
